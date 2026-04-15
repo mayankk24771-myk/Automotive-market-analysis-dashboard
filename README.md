@@ -21,6 +21,10 @@ Analyze automotive sales data to uncover trends, performance, and business insig
 - Dashboard File
 - Project Report
 
+  
+📊 Dashboard Preview
+(Automotive Market Insights & Pricing Analysis Dashboard.png)
+
 
 ## 👤 Author
 Mayank Kumar  

@@ -21,10 +21,10 @@ Analyze automotive sales data to uncover trends, performance, and business insig
 - Dashboard File
 - Project Report
 
+
   
 📊 Dashboard Preview
-
-(Automotive Market Insights & Pricing Analysis Dashboard.png)
+![Automotive Dashboard](images/Automotive%20Market%20Insights%20%26%20Pricing%20Analysis%20Dashboard.png)
 
 
 ## 👤 Author

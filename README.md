@@ -24,7 +24,7 @@ Analyze automotive sales data to uncover trends, performance, and business insig
 
   
 📊 Dashboard Preview
-![Automotive Dashboard](images/Automotive%20Market%20Insights%20%26%20Pricing%20Analysis%20Dashboard.png)
+![Dashboard](Automotive%20Market%20Insights%20%26%20Pricing%20Analysis%20Dashboard.png)
 
 
 ## 👤 Author
